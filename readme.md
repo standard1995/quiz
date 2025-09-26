@@ -5,3 +5,5 @@ test
 # change email2
 # change email nick mail
 # change email nick mail1
+
+nickmail
